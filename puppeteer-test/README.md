@@ -1,0 +1,1 @@
+<div align=center><img height=100% width=80% src='result.png'></img></div>
